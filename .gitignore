@@ -1,0 +1,17 @@
+# Node & tooling
+node_modules/
+*.log
+dist/
+.build/
+.cache/
+.vscode/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Env & misc
+.env
+.env.*
+*/
+
